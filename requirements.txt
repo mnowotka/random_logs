@@ -8,7 +8,7 @@ Click==7.0
 Faker==1.0.7
 idna==2.8
 multidict==4.5.2
-pycares==3.0.0
+pycares==4.2.0
 pycparser==2.19
 python-dateutil==2.8.0
 six==1.12.0
